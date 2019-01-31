@@ -1,2 +1,2 @@
-# simple-demo
-This is a simple repository for training
+# simple-demo exmaple repository
+This is a simple repository for training purposes
